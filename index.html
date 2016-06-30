@@ -81,7 +81,7 @@
 
         var g = svg.append("g");
 
-        d3.json("/data/countries.topo.json", function (error, countries) {
+        d3.json("data/countries.topo.json", function (error, countries) {
 
             if (error) console.log(error);
             // console.log(countries);
@@ -145,7 +145,7 @@
             if (d && country !== d) {
                 var xyz = get_xyz(d);
                 country = d;
-            d3.json("/data/states_" + d.id.toLowerCase() + ".topo.json", function(error, states) {
+            d3.json("data/states_" + d.id.toLowerCase() + ".topo.json", function(error, states) {
                 if (error) console.log(error);
                 // console.log(states);
                 g.append("g")
@@ -191,7 +191,7 @@
                 country_code = state.id.substring(0, 3).toLowerCase();
                 state_name = state.properties.name;
 
-                d3.json("/data/cities_" + country_code + ".topo.json", function(error, us) {
+                d3.json("data/cities_" + country_code + ".topo.json", function(error, us) {
                     if (error) console.log(error);
                     g.append("g")
                         .attr("id", "cities")
