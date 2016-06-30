@@ -1,0 +1,1 @@
+{"type":"Topology","objects":{"states_stp":{"type":"GeometryCollection","geometries":[{"type":"Polygon","properties":{"name":"São Tomé"},"id":"STP-4861","arcs":[[0]]}]}},"arcs":[[[5164,0],[-5164,4329],[6021,5670],[3978,-3806],[-4835,-6193]]],"transform":{"scale":[0.0000299264952495213,0.000033271556255618255],"translate":[6.461680535000113,0.078111070000105]}}

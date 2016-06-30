@@ -1,0 +1,1 @@
+{"type":"Topology","objects":{"states_imn":{"type":"GeometryCollection","geometries":[{"type":"Polygon","properties":{"name":"Isle of Man"},"id":"IMN+00?","arcs":[[0]]}]}},"arcs":[[[2996,0],[-2996,4136],[6734,5863],[3265,-3740],[-7003,-6259]]],"transform":{"scale":[0.00003983959585958869,0.00003133451365138322],"translate":[-4.710275844999927,54.091050523000035]}}

@@ -1,0 +1,1 @@
+{"type":"Topology","objects":{"cities_tjk":{"type":"GeometryCollection","geometries":[{"type":"Point","coordinates":[9999,0]},{"type":"Point","coordinates":[3050,9999]},{"type":"Point","coordinates":[0,3827]}]}},"arcs":[],"transform":{"scale":[0.00027739582226560765,0.00028027448741079885],"translate":[68.77387935270173,37.48751670231479]}}

@@ -1,0 +1,1 @@
+{"type":"Topology","objects":{"cities_isr":{"type":"GeometryCollection","geometries":[{"type":"Point","coordinates":[9999,0]},{"type":"Point","coordinates":[0,9999]}]}},"arcs":[],"transform":{"scale":[0.000043860389543646265,0.000030355987345569388],"translate":[34.76806589955174,31.778407815573303]}}

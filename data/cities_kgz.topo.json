@@ -1,0 +1,1 @@
+{"type":"Topology","objects":{"cities_kgz":{"type":"GeometryCollection","geometries":[{"type":"Point","coordinates":[9999,0]},{"type":"Point","coordinates":[0,9999]}]}},"arcs":[],"transform":{"scale":[0.00037989415568202926,0.00003830203341506556],"translate":[74.58325836390367,42.492043272972865]}}

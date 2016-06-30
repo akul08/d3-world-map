@@ -1,0 +1,1 @@
+{"type":"Topology","objects":{"states_gum":{"type":"GeometryCollection","geometries":[{"type":"Polygon","properties":{"name":"Guam"},"id":"GUM+00?","arcs":[[0]]}]}},"arcs":[[[0,0],[2113,9999],[7886,-1828],[-9999,-8171]]],"transform":{"scale":[0.000014365043304333915,0.000018698972797283143],"translate":[144.80827884200005,13.445786851000022]}}

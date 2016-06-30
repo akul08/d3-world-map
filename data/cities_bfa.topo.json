@@ -1,0 +1,1 @@
+{"type":"Topology","objects":{"cities_bfa":{"type":"GeometryCollection","geometries":[{"type":"Point","coordinates":[0,0]},{"type":"Point","coordinates":[9999,9999]}]}},"arcs":[],"transform":{"scale":[0.00027635880685643446,0.00011924058788279738],"translate":[-4.289981324673931,11.179975198303282]}}

@@ -1,0 +1,1 @@
+{"type":"Topology","objects":{"states_kas":{"type":"GeometryCollection","geometries":[{"type":"Polygon","properties":{"name":"Kashmir"},"id":"KAS+00?","arcs":[[0]]}]}},"arcs":[[[9999,7186],[-7344,-7186],[-2655,9999],[9999,-2813]]],"transform":{"scale":[0.00010230978827883386,0.000053572328932900863],"translate":[76.77735074100008,35.11044199700004]}}

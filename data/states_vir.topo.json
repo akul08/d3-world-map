@@ -1,0 +1,1 @@
+{"type":"Topology","objects":{"states_vir":{"type":"GeometryCollection","geometries":[{"type":"Polygon","properties":{"name":"Saint Croix"},"id":"VIR-4870","arcs":[[0]]}]}},"arcs":[[[9999,9999],[-9278,-9999],[-721,8685],[9999,1314]]],"transform":{"scale":[0.00001569167336733543,0.0000076179492949266505],"translate":[-64.88768469999994,17.68911367400011]}}

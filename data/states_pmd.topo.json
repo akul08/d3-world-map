@@ -1,0 +1,1 @@
+{"type":"Topology","objects":{"states_pmd":{"type":"GeometryCollection","geometries":[{"type":"Polygon","properties":{"name":"Madeira"},"id":"PRT-736","arcs":[[0]]}]}},"arcs":[[[0,8604],[4661,1395],[5338,-5700],[-7132,-4299],[-2867,8604]]],"transform":{"scale":[0.00003180249664967356,0.00001940298189818105],"translate":[-17.067982550999943,32.647202867000146]}}

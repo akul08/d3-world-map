@@ -1,0 +1,35 @@
+{
+    "type": "Topology",
+    "objects": {
+        "cities_zwe": {
+            "type": "GeometryCollection",
+            "geometries": [{
+                "type": "Point",
+                "coordinates": [0, 7645]
+            }, {
+                "type": "Point",
+                "coordinates": [5398, 3058]
+            }, {
+                "type": "Point",
+                "coordinates": [9999, 5097]
+            }, {
+                "type": "Point",
+                "coordinates": [5544, 7815]
+            }, {
+                "type": "Point",
+                "coordinates": [7479, 9217]
+            }, {
+                "type": "Point",
+                "coordinates": [7386, 9999]
+            }, {
+                "type": "Point",
+                "coordinates": [3382, 0]
+            }]
+        }
+    },
+    "arcs": [],
+    "transform": {
+        "scale": [0.0006150627269782886, 0.00023543891425887713],
+        "translate": [26.500025592766804, -20.16999753945231]
+    }
+}

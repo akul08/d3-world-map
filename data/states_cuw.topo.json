@@ -1,0 +1,1 @@
+{"type":"Topology","objects":{"states_cuw":{"type":"GeometryCollection","geometries":[{"type":"Polygon","properties":{"name":"Curaçao"},"id":"CUW-5151","arcs":[[0]]}]}},"arcs":[[[9999,0],[-6023,3986],[-3976,6013],[8340,-5147],[1659,-4852]]],"transform":{"scale":[0.00003944893189318815,0.000026406449244924424],"translate":[-69.16429602799991,12.04291413000007]}}

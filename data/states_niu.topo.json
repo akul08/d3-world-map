@@ -1,0 +1,1 @@
+{"type":"Topology","objects":{"states_niu":{"type":"GeometryCollection","geometries":[{"type":"Polygon","properties":{"name":"Niue"},"id":"NIU-5481","arcs":[[0]]}]}},"arcs":[[[9999,0],[-9999,1091],[4313,8908],[5570,-208],[116,-9791]]],"transform":{"scale":[0.00001265995739573964,0.000013722075307525332],"translate":[-169.95042883999992,-19.10230885199988]}}

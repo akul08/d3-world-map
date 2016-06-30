@@ -1,0 +1,1 @@
+{"type":"Topology","objects":{"states_pfa":{"type":"GeometryCollection","geometries":[{"type":"Polygon","properties":{"name":"Paracel Islands"},"id":"PFA+00?","arcs":[[0]]}]}},"arcs":[[[9999,926],[-9999,-926],[5555,9999],[4444,-9073]]],"transform":{"scale":[0.0000011719921992369767,0.0000010987426742704015],"translate":[111.19288170700003,15.778225002000141]}}

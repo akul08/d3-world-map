@@ -1,0 +1,1 @@
+{"type":"Topology","objects":{"states_mac":{"type":"GeometryCollection","geometries":[{"type":"Polygon","properties":{"name":"Macau"},"id":"MAC+00?","arcs":[[0]]}]}},"arcs":[[[7480,9999],[2519,-6880],[-6171,-3119],[-3828,9681],[7480,318]]],"transform":{"scale":[0.0000032311174117503408,0.000005766364336421965],"translate":[113.53443444100014,22.105373440000164]}}

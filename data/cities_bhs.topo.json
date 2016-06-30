@@ -1,0 +1,1 @@
+{"type":"Topology","objects":{"cities_bhs":{"type":"GeometryCollection","geometries":[{"type":"Point","coordinates":[0,9999]},{"type":"Point","coordinates":[9999,0]}]}},"arcs":[],"transform":{"scale":[0.0001350104289405741,0.00014500306638793692],"translate":[-78.70001306325292,25.08339011535122]}}

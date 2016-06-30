@@ -1,0 +1,1 @@
+{"type":"Topology","objects":{"cities_gha":{"type":"GeometryCollection","geometries":[{"type":"Point","coordinates":[485,9999]},{"type":"Point","coordinates":[0,0]},{"type":"Point","coordinates":[9999,3481]}]}},"arcs":[],"transform":{"scale":[0.0001485502089388467,0.00017488358300936065],"translate":[-1.704015138140221,4.943275776077883]}}

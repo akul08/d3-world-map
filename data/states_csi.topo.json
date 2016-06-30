@@ -1,0 +1,1 @@
+{"type":"Topology","objects":{"states_csi":{"type":"GeometryCollection","geometries":[{"type":"Polygon","properties":{"name":"Coral Sea Islands"},"id":"CSI+00?","arcs":[[0]]}]}},"arcs":[[[9999,9999],[-6874,-9999],[-3125,4893],[9999,5106]]],"transform":{"scale":[3.9066406639527085e-7,3.825252525354545e-7],"translate":[148.4394637380002,-17.735935153999975]}}

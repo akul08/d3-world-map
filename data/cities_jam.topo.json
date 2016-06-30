@@ -1,0 +1,1 @@
+{"type":"Topology","objects":{"cities_jam":{"type":"GeometryCollection","geometries":[{"type":"Point","coordinates":[0,9999]},{"type":"Point","coordinates":[9999,0]}]}},"arcs":[],"transform":{"scale":[0.00011493570863960108,0.000048966039047540915],"translate":[-77.91667586435648,17.977076623830897]}}

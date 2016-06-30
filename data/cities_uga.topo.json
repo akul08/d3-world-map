@@ -1,0 +1,1 @@
+{"type":"Topology","objects":{"cities_uga":{"type":"GeometryCollection","geometries":[{"type":"Point","coordinates":[0,0]},{"type":"Point","coordinates":[8837,9999]},{"type":"Point","coordinates":[9999,338]}]}},"arcs":[],"transform":{"scale":[0.0002593348876675785,0.00025477736982783733],"translate":[29.98828812533293,0.232478046566825]}}

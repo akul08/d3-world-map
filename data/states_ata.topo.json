@@ -1,0 +1,1 @@
+{"type":"Topology","objects":{"states_ata":{"type":"GeometryCollection","geometries":[{"type":"Polygon","properties":{"name":"Antarctica"},"id":"ATA+00?","arcs":[[0]]}]}},"arcs":[[[0,2113],[1240,3665],[2176,4221],[3021,-1031],[1449,21],[-7886,-6876]]],"transform":{"scale":[0.036003600360036005,0.0026721652375237648],"translate":[-180,-90]}}

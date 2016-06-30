@@ -1,0 +1,1 @@
+{"type":"Topology","objects":{"cities_lva":{"type":"GeometryCollection","geometries":[{"type":"Point","coordinates":[0,5887]},{"type":"Point","coordinates":[9999,0]},{"type":"Point","coordinates":[5618,9999]}]}},"arcs":[],"transform":{"scale":[0.0005500524417698147,0.00010701709005580366],"translate":[21.010024778942807,55.87995993969298]}}

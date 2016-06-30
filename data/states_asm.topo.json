@@ -1,0 +1,1 @@
+{"type":"Topology","objects":{"states_asm":{"type":"GeometryCollection","geometries":[{"type":"Polygon","properties":{"name":"Western"},"id":"ASM-5002","arcs":[[0]]}]}},"arcs":[[[9999,6715],[-4534,-6715],[-5465,6123],[7916,3876],[2083,-3284]]],"transform":{"scale":[0.000013862792033728808,0.000007788864789682492],"translate":[-170.83124752499995,-14.367120049999912]}}

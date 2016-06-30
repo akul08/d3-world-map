@@ -1,0 +1,1 @@
+{"type":"Topology","objects":{"states_wsb":{"type":"GeometryCollection","geometries":[{"type":"Polygon","properties":{"name":"Akrotiri"},"id":"WSB-5133","arcs":[[0]]}]}},"arcs":[[[9999,7474],[-7320,-7474],[-2679,9999],[9999,-2525]]],"transform":{"scale":[0.00001020600101825086,0.000008814358035794657],"translate":[32.91358483200014,34.568548895000106]}}

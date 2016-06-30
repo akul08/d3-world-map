@@ -1,0 +1,1 @@
+{"type":"Topology","objects":{"states_mtq":{"type":"GeometryCollection","geometries":[{"type":"Polygon","properties":{"name":"Martinique"},"id":"FRA-1442","arcs":[[0]]}]}},"arcs":[[[5970,8965],[4029,-8965],[-4673,397],[-5326,9602],[5970,-1034]]],"transform":{"scale":[0.00004184581868187497,0.00003600213541353236],"translate":[-61.22883053299998,14.461981512000136]}}

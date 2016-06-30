@@ -1,0 +1,26 @@
+{
+    "type": "Topology",
+    "objects": {
+        "cities_lbr": {
+            "type": "GeometryCollection",
+            "geometries": [{
+                "type": "Point",
+                "coordinates": [9999, 0]
+            }, {
+                "type": "Point",
+                "coordinates": [5649, 5194]
+            }, {
+                "type": "Point",
+                "coordinates": [0, 9999]
+            }, {
+                "type": "Point",
+                "coordinates": [2442, 7481]
+            }]
+        }
+    },
+    "arcs": [],
+    "transform": {
+        "scale": [0.00023300132747744204, 0.00017423676368357233],
+        "translate": [-11.368593181798644, 5.01112693167704]
+    }
+}

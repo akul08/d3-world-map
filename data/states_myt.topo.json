@@ -1,0 +1,1 @@
+{"type":"Topology","objects":{"states_myt":{"type":"GeometryCollection","geometries":[{"type":"Polygon","properties":{"name":"Mayotte"},"id":"FRA-4602","arcs":[[0]]}]}},"arcs":[[[0,9999],[9999,-2172],[-351,-3613],[-6379,-4214],[-3269,9999]]],"transform":{"scale":[0.000012745415141514416,0.00003259603310331678],"translate":[45.090179884000065,-12.989190362999906]}}

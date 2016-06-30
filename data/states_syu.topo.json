@@ -1,0 +1,1 @@
+{"type":"Topology","objects":{"states_syu":{"type":"GeometryCollection","geometries":[{"type":"Polygon","properties":{"name":"UNDOF"},"id":"SYR-5261","arcs":[[0]]}]}},"arcs":[[[3678,9999],[6321,-7894],[-6057,-2105],[-3942,6868],[3678,3131]]],"transform":{"scale":[0.000010698091309129896,0.00002374006421793483],"translate":[35.80363326000014,33.085423482000124]}}

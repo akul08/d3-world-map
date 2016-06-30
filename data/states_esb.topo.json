@@ -1,0 +1,1 @@
+{"type":"Topology","objects":{"states_esb":{"type":"GeometryCollection","geometries":[{"type":"Polygon","properties":{"name":"Dhekelia"},"id":"ESB-5132","arcs":[[0]]}]}},"arcs":[[[9999,9999],[-3187,-1872],[-575,-5188],[-6237,-2939],[5975,9754],[4024,245]]],"transform":{"scale":[0.00002050066761212103,0.000009622425695914903],"translate":[33.70151953599276,34.97289002502387]}}

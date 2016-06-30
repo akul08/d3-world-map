@@ -1,0 +1,1 @@
+{"type":"Topology","objects":{"cities_eri":{"type":"GeometryCollection","geometries":[{"type":"Point","coordinates":[9999,0]},{"type":"Point","coordinates":[0,9999]}]}},"arcs":[],"transform":{"scale":[0.0003797047185202539,0.0002323553074717805],"translate":[38.933323525759306,13.010018533271591]}}

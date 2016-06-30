@@ -1,0 +1,1 @@
+{"type":"Topology","objects":{"states_web":{"type":"GeometryCollection","geometries":[{"type":"Polygon","properties":{"name":"West Bank"},"id":"WEB+00?","arcs":[[0]]}]}},"arcs":[[[4297,9999],[5702,-2024],[-25,-7975],[-6147,499],[-3827,4805],[4297,4695]]],"transform":{"scale":[0.00006149076827682358,0.00007765757779118452],"translate":[34.946114542000146,31.765369442534933]}}

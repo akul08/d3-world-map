@@ -1,0 +1,1 @@
+{"type":"Topology","objects":{"states_kab":{"type":"GeometryCollection","geometries":[{"type":"Polygon","properties":{"name":"Baykonur lease in Qyzylorda"},"id":"KAB+00?","arcs":[[0]]}]}},"arcs":[[[5521,0],[-5521,4068],[3482,5931],[6517,-5931],[-4478,-4068]]],"transform":{"scale":[0.00011428869126911868,0.00008043724292429559],"translate":[62.81252730300014,45.56796905500002]}}

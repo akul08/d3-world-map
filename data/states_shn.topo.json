@@ -1,0 +1,1 @@
+{"type":"Topology","objects":{"states_shn":{"type":"GeometryCollection","geometries":[{"type":"Polygon","properties":{"name":"Saint Helena"},"id":"SHN-4864","arcs":[[0]]}]}},"arcs":[[[9635,9999],[364,-6819],[-9404,-3180],[-595,6203],[9635,3796]]],"transform":{"scale":[0.000010739192419245602,0.00001136181318131854],"translate":[-5.770130988999938,-16.015720309999978]}}

@@ -1,0 +1,1 @@
+{"type":"Topology","objects":{"states_tuv":{"type":"GeometryCollection","geometries":[{"type":"Polygon","properties":{"name":"Tuvalu"},"id":"TUV+00?","arcs":[[0]]}]}},"arcs":[[[5983,0],[-5983,9999],[4686,-203],[5313,-6885],[-4016,-2911]]],"transform":{"scale":[0.00000194518151814212,0.0000032148396839649155],"translate":[179.1980900400003,-8.529961846999782]}}

@@ -1,0 +1,1 @@
+{"type":"Topology","objects":{"states_gea":{"type":"GeometryCollection","geometries":[{"type":"Polygon","properties":{"name":"Ajaria"},"id":"GEO-3027","arcs":[[0]]}]}},"arcs":[[[9999,9412],[-456,-9412],[-9543,2133],[2634,7866],[7365,-587]]],"transform":{"scale":[0.00009610095951104975,0.000039078249224923835],"translate":[41.52076256600009,41.43085723900006]}}
